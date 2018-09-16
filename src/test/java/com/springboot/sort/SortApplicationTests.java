@@ -1,4 +1,4 @@
-package com.springboot.javasort;
+package com.springboot.sort;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

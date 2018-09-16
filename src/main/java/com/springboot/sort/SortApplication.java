@@ -1,4 +1,4 @@
-package com.springboot.javasort;
+package com.springboot.sort;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

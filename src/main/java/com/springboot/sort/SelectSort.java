@@ -1,4 +1,4 @@
-package com.springboot.javasort;
+package com.springboot.sort;
 
 /**
  * 选择排序

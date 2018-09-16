@@ -1,4 +1,4 @@
-package com.springboot.javasort;
+package com.springboot.sort;
 
 /**
  * 冒泡排序（Bubble Sort）也是一种简单直观的排序算法。
