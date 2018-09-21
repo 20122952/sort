@@ -22,7 +22,7 @@ public class QuickSort {
      * @param args
      */
     public static void main(String[] args) {
-        int[] arrs = {7, 6, 4, 4, 6, 8, 9, 1, 3, 4};
+        int[] arrs = {7, 6, 2, 4, 5, 8, 9, 1, 3, 4};
         sort(arrs, 0, arrs.length - 1);
         for (int i = 0; i < arrs.length; i++) {
             System.err.print(arrs[i] + ",");
@@ -39,7 +39,7 @@ public class QuickSort {
         return arrs;
     }
 
-
+    //7, 6, 2, 4, 5, 8, 9, 1, 3, 4
     private static int quickSort(int[] arr, int left, int right) {
         // 设定基准值（pivot）
         int pivot = left;
