@@ -1,6 +1,7 @@
-package com.springboot.sort;
+package com.springboot.sort.冒泡排序;
 
 /**
+ * 时间复杂度 O(n2)
  * 冒泡排序（Bubble Sort）也是一种简单直观的排序算法。
  * 它重复地走访过要排序的数列，一次比较两个元素，
  * 如果他们的顺序错误就把他们交换过来。

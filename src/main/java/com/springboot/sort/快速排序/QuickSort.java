@@ -1,4 +1,4 @@
-package com.springboot.sort;
+package com.springboot.sort.快速排序;
 
 /**
  * @Author: ningzhefeng

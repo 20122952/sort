@@ -1,4 +1,4 @@
-package com.springboot.sort;
+package com.springboot.sort.希尔排序;
 
 /**
  * 希尔排序，也称递减增量排序算法，是插入排序的一种更高效的改进版本。但希尔排序是非稳定排序算法。
